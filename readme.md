@@ -4,7 +4,7 @@
 
 Example 1:
 
-![bs1](bs1.jpg)
+![bs1](bst1.jpg)
 
 Input: root = [10,5,15,3,7,null,18], low = 7, high = 15
 Output: 32
